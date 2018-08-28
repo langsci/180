@@ -1,8 +1,16 @@
-{"versions": [{ "versiontype": "proofreading", 
+{"versions": [{"versiontype": "proofreading", 
 		"title": "Learning context effects",
 		"authors": [{"name": "Carmen Pérez Vidal"},
 			    {"name":" Sonia López-Serrano"},
 			    {"name":" Jennifer Ament"},
 			    {"name":" Dakota J. Thomas-Wilhelm"}],
-		 "publishedAt": "2018-05-03T09:35:07.000Z"}]
+		 "publishedAt": "2018-05-03T09:35:07.000Z"},
+                {"versiontype": "first_edition", 
+		"title": "Learning context effects",
+		"authors": [{"name": "Carmen Pérez Vidal"},
+			    {"name":" Sonia López-Serrano"},
+			    {"name":" Jennifer Ament"},
+			    {"name":" Dakota J. Thomas-Wilhelm"}],
+		 "publishedAt": "2018-08-28T09:35:07.000Z"}
+		 ]
 }
